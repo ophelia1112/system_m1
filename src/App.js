@@ -1,5 +1,5 @@
 
-import Mainpage from '../src/page/Mainpage'
+import Mainpage from './page/Mainpage'
 
 export default function App() {
   return (
