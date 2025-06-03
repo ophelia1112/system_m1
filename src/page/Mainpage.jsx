@@ -7,7 +7,7 @@ export default function Mainpage() {
 
             <div className={styles.video_dec}>
                 <div className={styles.video_dec_content}>
-                    <a href=""><p>Try M1 System.</p></a>
+                    <a href="https://m1-system.vercel.app/"><p>Try M1 System.</p></a>
 
                 </div>
 
